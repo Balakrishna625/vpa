@@ -1,0 +1,27 @@
+fileignoreconfig:
+- filename: password.txt
+  checksum: d918a1421406c52d0d4857e2c8b51418f974e016bdebde9fb37c943b98b6d5b5
+- filename: autoscalar/templates/recommender-deployment.yaml
+  checksum: 7854307ce14cbbf92cfe6c900fca63878c98e13344a45e2501793e72e1792da5
+- filename: autoscalar/templates/admission-controller-certgen.yaml
+  checksum: 0bdaab421e48d282dc1a11370e5a7a1c90cc9f97141f25b70754ae956ec01a42
+- filename: autoscalar/README.md
+  checksum: 17e91f4008faaf78299dfe61e1bede50c550176d7d3366fcd911e1247d198a40
+- filename: autoscalar/templates/admission-controller-deployment.yaml
+  checksum: 96f4df7734410b5377ed7b36f0670643c04cd419bc62f2453a1a6b10debd703e
+- filename: autoscalar/values.yaml
+  checksum: 1bf59135327f8c2c56cd468b02de680f74f530e8b965e5477cf93d7dcd15d5a9
+- filename: vpa 2/templates/admission-controller-deployment.yaml
+  checksum: 7df9f907c46254db1f234fcb5b814ff89e2f20df058146f4368f3d560b42eb0e
+- filename: autoscalar/templates/updater-deployment.yaml
+  checksum: 57c2893f5d37f41b5a056e7729ea4cfdc2c9bdddd52e498196c7b79e6b3f84c9
+- filename: vpa 2/README.md
+  checksum: b9be9051d3b4ebb0883e800b8a9951be1e28598aeb19d6b87538ebf24aad71c3
+- filename: vpa 2/templates/recommender-deployment.yaml
+  checksum: 2f2b36c8cb6cf21f7702c60bb0fdf79761e792ef9cdfb47001487354dd4df1ec
+- filename: vpa 2/templates/admission-controller-certgen.yaml
+  checksum: ef5065118161554e9f535a72a6155239a81cbe870c4878619733e8f8ba26b748
+- filename: vpa 2/templates/updater-deployment.yaml
+  checksum: 9d16cd3e210eb08a033e6a6554a37b6f9359a4649b6cd6f79f3a5eed223e9192
+- filename: vpa 2/values.yaml
+  checksum: 27618dda7e8af4fec8fed55636329c3c668cc3c1129d28b6d722a0ccf6c47f57
